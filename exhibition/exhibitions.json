@@ -1,0 +1,90 @@
+[
+  {
+    "titel": "Darkwood",
+    "content": ["Herbst im Wald"],
+    "preview": "https://2.bp.blogspot.com/-nSS5nTAOPhc/W5AAAv6lOEI/AAAAAAAAFGo/ddxA6EdZiJU4SxRXPZmYxw3lZmbsWTR2QCLcBGAs/s1600/Darkwoods%2B%25285%2529.jpg",
+    "exibition": "darkwood",
+    "label": ["lensbaby", "natur"],
+    "display": true
+  },
+  {
+    "titel": "K-Town",
+    "content": ["Kaiserslautern dekonstruiert"],
+    "preview": "https://1.bp.blogspot.com/-B91pkKKWzqs/X0fQRK0eEVI/AAAAAAAAG24/4DO4MAJj5Cw3zxixuOb77Rr6iRZg2paIACLcBGAsYHQ/s1600/ktown%2B%252818%2529.jpg",
+    "exibition": "ktown",
+    "label": ["lensbaby", "street"],
+    "display": true
+  },
+  {
+    "titel": "Venedig im Winter",
+    "content": ["Venedig monochrom"],
+    "preview": "https://2.bp.blogspot.com/-e678qJbh66s/VJU_wBsU_kI/AAAAAAAACd8/c-WtG1DmCFQ/s1600/BSC_5818.jpg",
+    "exibition": "venedig",
+    "label": ["lensbaby", "street"],
+    "display": true
+  },
+  {
+    "titel": "Frühling am Donnersberg",
+    "content": ["Wald und Landschaft"],
+    "preview": "https://1.bp.blogspot.com/-YziZTPdW8KI/XpWHvJ5nzHI/AAAAAAAAGhc/-ohvwFFckpAXyoBQCNB3wRHocKVrcGIHwCLcBGAsYHQ/s320/DSC_8774.jpg",
+    "exibition": "donnersberg",
+    "label": ["natur", "coronajahr", "landschaft"],
+    "display": true
+  },
+  {
+    "titel": "Der Donnersberg im Winter",
+    "content": ["Nebel und Schnee"],
+    "preview": "https://1.bp.blogspot.com/-2K_NMAeh4ls/YAXB8Q5EdoI/AAAAAAAAHk0/eeE5xfronlctFZ7kr35ToWITjZWKEwKLwCLcBGAsYHQ/s320/DSC_2232.jpg",
+    "exibition": "donnersbergwinter",
+    "label": ["natur", "coronajahr", "landschaft"],
+    "display": true
+  },
+  {
+    "titel": "Las Vegas blvd",
+    "content": ["Subjektiv"],
+    "preview": "https://1.bp.blogspot.com/-qV5orqfFuAE/YEyt_1RowBI/AAAAAAAAHxM/vOsy3T_a9FIWFi9_WkRPYtgN32lNo4AUQCLcBGAsYHQ/s2048/vegasbaby%2B%25285%2529.jpg",
+    "exibition": "lasvegasblv",
+    "label": ["usa", "las vegas", "street", "lensbaby"],
+    "display": true
+  },
+  {
+    "titel": "Zeeland",
+    "content": ["Schwarzweiß und Sturm"],
+    "preview": "https://1.bp.blogspot.com/-G5w5pHVRc-k/YF-OGJmdogI/AAAAAAAAH2s/KWv00ENYZy8CugkibClgsDU0XuEfGQzHwCLcBGAsYHQ/s1702/DSC_1511.jpg",
+    "exibition": "nordsee",
+    "label": ["meer", "holland", "strand", "lensbaby"],
+    "display": true
+  },
+  {
+    "titel": "Nevada",
+    "content": ["Landscapes"],
+    "preview": "https://1.bp.blogspot.com/-L2DmjKC9NPk/YGYtnoxxDyI/AAAAAAAAH4M/wo_1qhMsjKo5fNrc2oPV1xdo2BzLEPhSwCLcBGAsYHQ/s2000/nevada2012%2B%25287%2529.jpg",
+    "exibition": "nevada",
+    "label": ["usa", "las vegas", "nevada", "landscape"],
+    "display": true
+  },
+  {
+    "titel": "Frankfurt",
+    "preview": "https://1.bp.blogspot.com/-n6QcIFU67wA/UZpUyCO-SgI/AAAAAAAABQc/UGRRC5a3CU8/s1600/sw+(2).jpg",
+    "content": ["Touristiktrip durch Frankfurt."],
+    "exibition": "frankfurt",
+    "label": ["frankfurt", "weitwinkel", "schwarzweis", "citycape"],
+    "display": true
+  },
+  {
+    "titel": "New York",
+    "preview": "https://4.bp.blogspot.com/-gk1QHt3L7_0/T7NXvDFkYUI/AAAAAAAAAKM/zTnP-roRoqQ/s1600/DSC_9352.JPG",
+    "content": ["Kurztrip New York"],
+    "exibition": "NewYork",
+    "label": ["usa","new york", "lensbaby"],
+    "display": true
+  },
+  {
+    "titel": "Autumn in the Heather",
+    "preview": "https://1.bp.blogspot.com/-Bea0aU-Uupg/YZJW3g93NfI/AAAAAAAAIbU/M0esVtJLUwwfyrBemexIDbz7FZhhs6eRgCLcBGAsYHQ/s2048/lensbaby_sweet_50_80%2B%25281%2529.jpg",
+    "content": ["Heidelandschaft im Herbst"],
+    "exibition": "AutumnintheHeather",
+    "label": ["landschaft","heide", "lensbaby"],
+    "display": true
+  }
+]
