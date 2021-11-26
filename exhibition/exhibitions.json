@@ -86,5 +86,13 @@
     "exibition": "AutumnintheHeather",
     "label": ["landschaft","heide", "lensbaby"],
     "display": true
+  },
+  {
+    "titel": "Mainz walk",
+    "preview": "https://1.bp.blogspot.com/-CoEtoYNsrD8/YaETy8cbJ3I/AAAAAAAAIqE/x_YjgX7QGxEmiyVirx151mw2cCL1k1i7ACLcBGAsYHQ/s2048/mainz_15.jpg",
+    "content": ["kleiner Rundgang durch Mainz"],
+    "exibition": "Mainzwalk",
+    "label": ["landschaft","mainz","city", "lensbaby"],
+    "display": true
   }
 ]
