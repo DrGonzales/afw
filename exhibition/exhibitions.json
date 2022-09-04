@@ -102,6 +102,15 @@
     "exibition": "Kaiserslauternsundown",
     "label": ["landschaft","Kaiserlautern","city", "lensbaby"],
     "display": true
+  },
+  {
+    "titel": "Seidr",
+    "preview": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKam3eBeg4XnoLEUmCaZoIul0uCBI1OSAGGZwTztmBh2SPO_BdpMDu3c3BPoKw7gg0KZQsBnAethmqSdS-ac2c7x9HzsmSC-er39HpximF41rK3qZsHbgBf-pbYU-dl9h6O8Rf99SakUec3xfollAIOHxzKCiRvUz-8UhyU7Cx2NziUSSqVCPOfaMixA/s3302/voelva_05.jpg",
+    "content": ["Una und Jorun"],
+    "exibition": "Seidr",
+    "label": ["viking","witch"],
+    "display": true
   }
+
 
 ]
