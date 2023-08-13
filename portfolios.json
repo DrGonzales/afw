@@ -3,7 +3,9 @@
     "titel": "Paarshootings",
     "subtitel": "Erinnerungen für die Ewigkeit",
     "label": "love",
-    "bloggerTags": ["Couple"],
+    "bloggerTags": [
+      "Couple"
+    ],
     "contentup": [
       "Man erlebt als Paar so vieles gemeinsam, aber nur selten hat man Fotos, auf denen man zusammen und vollkommen natürlich und ungestellt zu sehen ist. Mit einem Paarshooting bekommt ihr endlich Bilder, die eure Persönlichkeit, eure Liebe und euer Miteinander für die Ewigkeit festhalten.<br />"
     ],
@@ -33,14 +35,37 @@
     ]
   },
   {
-    "titel": "Portraits",
-    "label": "portraits",
+    "titel": "TFP-Shootings & Portraits",
+    "label": "tfp",
     "contentup": [
+      "Um mich selbst fotografisch weiter zu entwickeln und auch hauptsächlich, weil es mir Spaß macht, biete ich immer wieder ein kostenloses TFP- Shooting an.<br />",
       "Ein Portraitshooting ist eine tolle Möglichkeit, den Menschen vor der Kamera zu zeigen wer er ist.<br />",
       "Wir werden zusammen Bilder schaffen, bei denen Du Dich wohlfühlst und wo Du vielleicht sogar eine ganz neue Seite an Dir erkennst."
     ],
-    "contentdown": [],
+    "contentdown": [
+      "<h3>Was ist ein TFP-Shooting</h3>",
+      "Die Bezeichnung time for prints (englisch, kurz: TFP, auch time for pictures) steht in der Fotografie für eine Vereinbarung zwischen einem Fotomodell und einem Fotografen, bei der das Modell nicht mit einer Gage, sondern mit den Resultaten der Fotoaufnahmen für seine Dienste entlohnt wird. Klassischerweise sind dies Papierabzüge (engl.: prints) der Fotos, die im Rahmen der Aufnahmen entstanden sind. Seit dem Einzug der Digitalfotografie ist auch der Begriff TFCD (time for cd) gebräuchlich. Hierbei werden die Bilder in digitaler Form (meist auf CD) dem Modell weitergegeben.” (Quelle: Wikipedia).",
+      "<h3>Voraussetzungen</h3>",
+      "Bei ein TFP-Shooting  dient dazu neue Ideen auszuprobieren. Für das Model sind das bspw. Outfits, Posen, Stile, neue Aufnahmebereiche etc. Für den Fotografen sind das Lichtsetups, Aufnahmetechniken oder auch verschiedene Arten der Bildbearbeitung. Im Vordergrund steht immer der Spaß auf beiden Seiten.",
+      "<ul>",
+      "<li>Mindestalter : 18 Jahre",
+      "<li>Begleitperson ist kein Problem, solange sie das Shooting nicht stört",
+      "<li>Eigene Ideen sind erwünscht :)",
+      "<li>Eine Visa ist nicht anwesend, sofern nicht anders vereinbart",
+      "<li>Jedes TFP Shooting wird mit einem Vertrag durchgeführt",
+      "<li>Wir suchen nach dem shooting die besten Bilder aus von denen du dann, in der regel 14 Tage nach dem shooting, 5 - 15 Bilder zum Download bekommst",
+      "</ul>",
+      "<h3>Interesse an einem TFP-Shooting?</h3>",
+      "Dann kontaktiere mich einfach!"
+    ],
     "bloggerTags": [
+      "akptfp",
+      "akptfp1",
+      "akptfp2",
+      "akptfp3",
+      "akptfp4",
+      "akptfp5",
+      "akptfp6",
       "akpportrait",
       "akpportrait1",
       "akpportrait2",
@@ -54,6 +79,18 @@
       "akpportraitm"
     ],
     "pictureUrls": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL2GISbWYEwD4-gEfSx5Tl6TVRaY4OCBB6lcTYKVoemEZx7rDLlNXWU84Y79OEvbt4xWTbv5ydAO99pyxJQfGfkK5eiBnc6ls3jzVOhV9KLX5Dmm_0UlgztXg5TEpp4xbyNi5KdxtFhxa7yYvHENHkRgtVWsNo6M1ZQONi5WD56xjSwibZEcC9rvSuEw/s3302/sonnenblumenland%20(1).jpg",
+      "https://1.bp.blogspot.com/-c0_1_9onEWk/VexB3w8Kk6I/AAAAAAAADTA/Y0LAcf-810s/s320/silbersee_08_2015%2B%25282%2529.jpg",
+      "https://1.bp.blogspot.com/-LOrJ7idRtUE/XBUcYJu4J0I/AAAAAAAAFkY/Q7kCFYbFpcUH_ZpkO9RvlFQj4dwbGVXKwCLcBGAs/s480/Ubahn_FFM%2B%25283%2529.jpg",
+      "https://1.bp.blogspot.com/-9KoTO1vmink/XzjsqacgKMI/AAAAAAAAG1k/l24fsKZwEckbaR2xfTz70rUBzpReOTcqgCLcBGAsYHQ/s489/lovebuzzdessous_28.jpg",
+      "https://4.bp.blogspot.com/-YANLOQOuCbY/W9dFczqOWWI/AAAAAAAAFd8/7AFvqnWS2FcLQUxf2bRR1XPYNl_eeHukwCLcBGAs/s480/DSC_5151-Bearbeitet_2.jpg",
+      "https://4.bp.blogspot.com/-xzZfTlWCuLU/W9WNxmqxWSI/AAAAAAAAFc4/xjhdrYqjYu0QlR_u6X2iN29q-DuVOFMCQCLcBGAs/s480/Selina_auf_Lydia_23.jpg",
+      "https://1.bp.blogspot.com/-l-1xvwUiOg8/W8TEYu1wGnI/AAAAAAAAFXY/BxRXDVtWA10B6PtVDe4BUaDJFiR4LtWRwCLcBGAs/s480/Sabine_Reden%2B%252821%2529.jpg",
+      "https://1.bp.blogspot.com/-7TyFlX-_yX8/YZaVLT5A9ZI/AAAAAAAAIkw/jarz7XHkFgc7yknmD3BLKejnTkpYbIB8QCLcBGAsYHQ/s320/Ida_08.jpg",
+      "https://1.bp.blogspot.com/-8u6Pu1JdgRk/YZaPAXwrDwI/AAAAAAAAIiY/7aUIM9IKJkg6d7aAkfPcNPfuq6sIUHoTwCLcBGAsYHQ/s320/Sophie_15.jpg",
+      "https://1.bp.blogspot.com/-7Fet_PyRhqQ/YYqLAJdyltI/AAAAAAAAIZE/eqQI4y707BEr-WN53ejDtPMyWQ-xv19GwCLcBGAsYHQ/s320/Keltenwall_12.jpg",
+      "https://1.bp.blogspot.com/-NmWJLzd-tRI/YYqLZVmS-FI/AAAAAAAAIaI/LdsW3wLYeZMirB4WpgWCiikk9L5HG_NqwCLcBGAsYHQ/s320/Keltenwall_32.jpg",
+      "https://1.bp.blogspot.com/-aEY84J-TJYg/YOH2ojr3X4I/AAAAAAAAIOU/EUmFFr9qk0EZpeortIPZJes9JMZDJKi-wCLcBGAsYHQ/s320/obersteinstyle%2B%252827%2529.jpg",
       "https://1.bp.blogspot.com/-E5XWYge4gZo/YaCsW-O_xkI/AAAAAAAAInk/taEa-b7trW45gBo0zhB4pI2_tj9T05a8gCLcBGAsYHQ/s320/DSC_4853-Bearbeitet.jpg",
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzJGue2FnnNO_Rj2E1foIn0rZQHw2-TXoHekCDDduaHiZTDnfNZnx86aAw3xMGLgmMYm02fpI0Zpd-AITPej6a2LCWaMtt674Zdvpwf9ZQzrQSKdEvrALKBzDVrHbzqLrWqk7U6DP5tEZ6vKPnhgK5DU1Q4kPdwxCVcRiQuN5eV87uIda12PVYxhecLw/s1400/meisenheim_2022_20.jpg",
       "https://1.bp.blogspot.com/-Wb-oqKD7H6Q/YaCpdfZY7oI/AAAAAAAAIl0/Q1WYG4lclncqINhYaiIwTBh31yY5iTRpQCLcBGAsYHQ/s320/DSC_4712-Bearbeitet.jpg",
@@ -74,7 +111,12 @@
   {
     "titel": "Cosplay und Fantasy",
     "label": "cosplay",
-    "bloggerTags": ["akpcosplay", "akpcosplay1", "akpcosplay2", "akpcosplay3"],
+    "bloggerTags": [
+      "akpcosplay",
+      "akpcosplay1",
+      "akpcosplay2",
+      "akpcosplay3"
+    ],
     "pictureUrls": [
       "https://4.bp.blogspot.com/-r2UhcWgB770/XIz0C1mkzlI/AAAAAAAAFtY/J7Kr8LcDtpk7OSeWBd6NKjaNzeq1u9EnwCLcBGAs/s480/Vikings_%2B%252812%2529.jpg",
       "https://1.bp.blogspot.com/-eJ2dxFVe2sQ/XooN5gIV09I/AAAAAAAAGbA/uBxvmGjCHsIy5M_79dFhtYCrdVznyDyMgCLcBGAsYHQ/s320/hexhex_07.jpg",
@@ -82,48 +124,10 @@
       "https://3.bp.blogspot.com/-kQHv787rtzw/XOEQJ60AYqI/AAAAAAAAF0s/wYub4_QnDh00twM5XYG_PXw6BW49v6V5wCLcBGAs/s320/DSC_1453.jpg",
       "https://2.bp.blogspot.com/-jh4QoNaVAXY/XIz0RnBrq2I/AAAAAAAAFt8/g3zo5p0NZeASDHXudptOdeewlPEjCmzogCLcBGAs/s1600/Vikings_%2B%252829%2529.jpg",
       "https://1.bp.blogspot.com/--781tXGWShI/YZPsVnMnXWI/AAAAAAAAIgM/5PppptmOLVgrAcpYMmoiLP1MMjMk8WQhgCLcBGAsYHQ/s320/Hexhex_30.jpg",
-     "https://1.bp.blogspot.com/-_ksnBdtk7zc/YZPsLqu_UHI/AAAAAAAAIf8/89RwilKNaHsy8NQR4If79C7mSsS7DMCkQCLcBGAsYHQ/s320/Hexhex_26.jpg",
-     "https://1.bp.blogspot.com/-SdYac2m1_8Y/YW72x6qydYI/AAAAAAAAIUw/mol1I0ir0R8Lvg8emjgGuyYTYgdOMH1KwCLcBGAsYHQ/s2048/DSC_1921-Bearbeitet.jpg",
-     "https://1.bp.blogspot.com/-r_l5jJU7fxA/YIPkHM-4IFI/AAAAAAAAH7k/lbqJkZ6qEcE7mjqU8vW3fUqGkRWLICnigCLcBGAsYHQ/s1800/eisprinzessin_bine%2B%25281%2529.jpg",
-     "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN4a-pNNJS6QNvjqZ_rKhDFHJL5u405MbVAr0My8APzKEz8bYJzJZq1uqomYaEH60uBZzZtbomPBkS0n_sW3H0iytZ60VDgnBTWFcqnBsb_Gce_gtAgj6T8yLBcYhAWXyJAn7F2jq66t_Wc1HEiOa0R3HgdK5As6lPXdluscq_fVSEfmb9aqWgSkDJig/s3302/heidensaga_22%20(31).jpg" 
-    ]
-  },
-  {
-    "titel": "TFP-Shootings",
-    "label": "tfp",
-    "contentup": [
-      "Um mich selbst fotografisch weiter zu entwickeln und auch hauptsächlich, weil es mir Spaß macht, biete ich immer wieder ein kostenloses TFP- Shooting an.<br />"
-    ],
-    "contentdown": [
-      "<h3>Was ist ein TFP-Shooting</h3>",
-      "Die Bezeichnung time for prints (englisch, kurz: TFP, auch time for pictures) steht in der Fotografie für eine Vereinbarung zwischen einem Fotomodell und einem Fotografen, bei der das Modell nicht mit einer Gage, sondern mit den Resultaten der Fotoaufnahmen für seine Dienste entlohnt wird. Klassischerweise sind dies Papierabzüge (engl.: prints) der Fotos, die im Rahmen der Aufnahmen entstanden sind. Seit dem Einzug der Digitalfotografie ist auch der Begriff TFCD (time for cd) gebräuchlich. Hierbei werden die Bilder in digitaler Form (meist auf CD) dem Modell weitergegeben.” (Quelle: Wikipedia).",
-      "<h3>Voraussetzungen</h3>",
-      "Bei ein TFP-Shooting  dient dazu neue Ideen auszuprobieren. Für das Model sind das bspw. Outfits, Posen, Stile, neue Aufnahmebereiche etc. Für den Fotografen sind das Lichtsetups, Aufnahmetechniken oder auch verschiedene Arten der Bildbearbeitung. Im Vordergrund steht immer der Spaß auf beiden Seiten.",
-      "<ul>",
-      "<li>Mindestalter : 18 Jahre",
-      "<li>Begleitperson ist kein Problem, solange sie das Shooting nicht stört",
-      "<li>Eigene Ideen sind erwünscht :)",
-      "<li>Eine Visa ist nicht anwesend, sofern nicht anders vereinbart",
-      "<li>Jedes TFP Shooting wird mit einem Vertrag durchgeführt",
-      "<li>Wir suchen nach dem shooting die besten Bilder aus von denen du dann, in der regel 14 Tage nach dem shooting, 5 - 15 Bilder zum Download bekommst",
-      "</ul>",
-      "<h3>Interesse an einem TFP-Shooting?</h3>",
-      "Dann kontaktiere mich einfach!"
-    ],
-    "bloggerTags": ["akptfp", "akptfp1", "akptfp2","akptfp3","akptfp4","akptfp5","akptfp6"],
-    "pictureUrls": [
-      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL2GISbWYEwD4-gEfSx5Tl6TVRaY4OCBB6lcTYKVoemEZx7rDLlNXWU84Y79OEvbt4xWTbv5ydAO99pyxJQfGfkK5eiBnc6ls3jzVOhV9KLX5Dmm_0UlgztXg5TEpp4xbyNi5KdxtFhxa7yYvHENHkRgtVWsNo6M1ZQONi5WD56xjSwibZEcC9rvSuEw/s3302/sonnenblumenland%20(1).jpg",
-      "https://1.bp.blogspot.com/-c0_1_9onEWk/VexB3w8Kk6I/AAAAAAAADTA/Y0LAcf-810s/s320/silbersee_08_2015%2B%25282%2529.jpg",
-      "https://1.bp.blogspot.com/-LOrJ7idRtUE/XBUcYJu4J0I/AAAAAAAAFkY/Q7kCFYbFpcUH_ZpkO9RvlFQj4dwbGVXKwCLcBGAs/s480/Ubahn_FFM%2B%25283%2529.jpg",
-      "https://1.bp.blogspot.com/-9KoTO1vmink/XzjsqacgKMI/AAAAAAAAG1k/l24fsKZwEckbaR2xfTz70rUBzpReOTcqgCLcBGAsYHQ/s489/lovebuzzdessous_28.jpg",
-      "https://4.bp.blogspot.com/-YANLOQOuCbY/W9dFczqOWWI/AAAAAAAAFd8/7AFvqnWS2FcLQUxf2bRR1XPYNl_eeHukwCLcBGAs/s480/DSC_5151-Bearbeitet_2.jpg",
-      "https://4.bp.blogspot.com/-xzZfTlWCuLU/W9WNxmqxWSI/AAAAAAAAFc4/xjhdrYqjYu0QlR_u6X2iN29q-DuVOFMCQCLcBGAs/s480/Selina_auf_Lydia_23.jpg",
-      "https://1.bp.blogspot.com/-l-1xvwUiOg8/W8TEYu1wGnI/AAAAAAAAFXY/BxRXDVtWA10B6PtVDe4BUaDJFiR4LtWRwCLcBGAs/s480/Sabine_Reden%2B%252821%2529.jpg",
-      "https://1.bp.blogspot.com/-7TyFlX-_yX8/YZaVLT5A9ZI/AAAAAAAAIkw/jarz7XHkFgc7yknmD3BLKejnTkpYbIB8QCLcBGAsYHQ/s320/Ida_08.jpg",
-      "https://1.bp.blogspot.com/-8u6Pu1JdgRk/YZaPAXwrDwI/AAAAAAAAIiY/7aUIM9IKJkg6d7aAkfPcNPfuq6sIUHoTwCLcBGAsYHQ/s320/Sophie_15.jpg",
-      "https://1.bp.blogspot.com/-7Fet_PyRhqQ/YYqLAJdyltI/AAAAAAAAIZE/eqQI4y707BEr-WN53ejDtPMyWQ-xv19GwCLcBGAsYHQ/s320/Keltenwall_12.jpg",
-      "https://1.bp.blogspot.com/-NmWJLzd-tRI/YYqLZVmS-FI/AAAAAAAAIaI/LdsW3wLYeZMirB4WpgWCiikk9L5HG_NqwCLcBGAsYHQ/s320/Keltenwall_32.jpg",
-      "https://1.bp.blogspot.com/-aEY84J-TJYg/YOH2ojr3X4I/AAAAAAAAIOU/EUmFFr9qk0EZpeortIPZJes9JMZDJKi-wCLcBGAsYHQ/s320/obersteinstyle%2B%252827%2529.jpg"
+      "https://1.bp.blogspot.com/-_ksnBdtk7zc/YZPsLqu_UHI/AAAAAAAAIf8/89RwilKNaHsy8NQR4If79C7mSsS7DMCkQCLcBGAsYHQ/s320/Hexhex_26.jpg",
+      "https://1.bp.blogspot.com/-SdYac2m1_8Y/YW72x6qydYI/AAAAAAAAIUw/mol1I0ir0R8Lvg8emjgGuyYTYgdOMH1KwCLcBGAsYHQ/s2048/DSC_1921-Bearbeitet.jpg",
+      "https://1.bp.blogspot.com/-r_l5jJU7fxA/YIPkHM-4IFI/AAAAAAAAH7k/lbqJkZ6qEcE7mjqU8vW3fUqGkRWLICnigCLcBGAsYHQ/s1800/eisprinzessin_bine%2B%25281%2529.jpg",
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN4a-pNNJS6QNvjqZ_rKhDFHJL5u405MbVAr0My8APzKEz8bYJzJZq1uqomYaEH60uBZzZtbomPBkS0n_sW3H0iytZ60VDgnBTWFcqnBsb_Gce_gtAgj6T8yLBcYhAWXyJAn7F2jq66t_Wc1HEiOa0R3HgdK5As6lPXdluscq_fVSEfmb9aqWgSkDJig/s3302/heidensaga_22%20(31).jpg"
     ]
   },
   {
@@ -132,11 +136,13 @@
     "contentup": [
       "Flaue Farbe, geringe Auflösung, eigenwilliger Fokus und Blendenscheiben - nur ein paar Highligths eines Lensbabys."
     ],
-    "bloggerTags": ["akplbp"],
+    "bloggerTags": [
+      "akplbp"
+    ],
     "pictureUrls": [
       "https://1.bp.blogspot.com/-_JS22atpGnA/YIPpXlkmknI/AAAAAAAAH-4/t7iAHChQvYU4MWpjSDo3KvAWxEOLHbMAQCLcBGAsYHQ/s320/sabine_saarlan_silo%2B%252828%2529.jpg",
       "https://1.bp.blogspot.com/-vQRlreIyX0A/YIPnOYhW-FI/AAAAAAAAH90/_TUelnItG3IpQpjsGC6qj2oHiKwLtPb9ACLcBGAsYHQ/s320/lensbaby_selina%2B%25282%2529.jpg",
-     "https://1.bp.blogspot.com/-zCmTgFuXNz4/YIPnL8kj71I/AAAAAAAAH9g/RVSS5gkrJcc_In6LND9ErVjkmlh5vK_uwCLcBGAsYHQ/s320/lensbaby_selina%2B%252813%2529.jpg"
+      "https://1.bp.blogspot.com/-zCmTgFuXNz4/YIPnL8kj71I/AAAAAAAAH9g/RVSS5gkrJcc_In6LND9ErVjkmlh5vK_uwCLcBGAsYHQ/s320/lensbaby_selina%2B%252813%2529.jpg"
     ]
   },
   {
@@ -145,14 +151,16 @@
     "contentup": [
       "Flaue Farbe, geringe Auflösung, eigenwilliger Fokus und Blendenscheiben - nur ein paar Highligths eines Lensbabys."
     ],
-    "bloggerTags": ["akplb"],
+    "bloggerTags": [
+      "akplb"
+    ],
     "pictureUrls": [
-     "https://1.bp.blogspot.com/-tDbE8HnL76A/X0fQMTqS2uI/AAAAAAAAG2k/RfX6kLh2TCEvrmEofyfkkkgjqmXv2QMiQCLcBGAsYHQ/w512-h341/ktown%2B%252812%2529.JPG",
-     "https://4.bp.blogspot.com/-enFRYeiR8Ho/XHGqBpG5NRI/AAAAAAAAFpA/ScgD7XxMZoAyB61tolqrcLCsaUxRPLrdACLcBGAs/s320/Falkenstein_Xmas_07.jpg",
-     "https://2.bp.blogspot.com/-UzoXFObxKyk/W4__70esxBI/AAAAAAAAFGc/jKm4vxriMJEdAVuN4OtogKseC2DTj5XegCLcBGAs/s320/Darkwoods%2B%25284%2529.jpg",
-     "https://3.bp.blogspot.com/-yujr01LsAaw/VJU_LQ98ZlI/AAAAAAAACbw/oPd4qmrapZE/s1600/BSC_5586.jpg",
-     "https://3.bp.blogspot.com/-wn3nm-O65lU/T7NX2B1V4HI/AAAAAAAAAK0/OOPZkEiclSY/s1600/DSC_9394.JPG",
-     "https://1.bp.blogspot.com/-28ri_xhSR80/YZJW9s5GmUI/AAAAAAAAIbo/UTiLILbWDTkzEBcwOsOrbik9MgWuEzt9wCLcBGAsYHQ/s2048/lensbaby_sweet_50_80%2B%25282%2529.jpg"
+      "https://1.bp.blogspot.com/-tDbE8HnL76A/X0fQMTqS2uI/AAAAAAAAG2k/RfX6kLh2TCEvrmEofyfkkkgjqmXv2QMiQCLcBGAsYHQ/w512-h341/ktown%2B%252812%2529.JPG",
+      "https://4.bp.blogspot.com/-enFRYeiR8Ho/XHGqBpG5NRI/AAAAAAAAFpA/ScgD7XxMZoAyB61tolqrcLCsaUxRPLrdACLcBGAs/s320/Falkenstein_Xmas_07.jpg",
+      "https://2.bp.blogspot.com/-UzoXFObxKyk/W4__70esxBI/AAAAAAAAFGc/jKm4vxriMJEdAVuN4OtogKseC2DTj5XegCLcBGAs/s320/Darkwoods%2B%25284%2529.jpg",
+      "https://3.bp.blogspot.com/-yujr01LsAaw/VJU_LQ98ZlI/AAAAAAAACbw/oPd4qmrapZE/s1600/BSC_5586.jpg",
+      "https://3.bp.blogspot.com/-wn3nm-O65lU/T7NX2B1V4HI/AAAAAAAAAK0/OOPZkEiclSY/s1600/DSC_9394.JPG",
+      "https://1.bp.blogspot.com/-28ri_xhSR80/YZJW9s5GmUI/AAAAAAAAIbo/UTiLILbWDTkzEBcwOsOrbik9MgWuEzt9wCLcBGAsYHQ/s2048/lensbaby_sweet_50_80%2B%25282%2529.jpg"
     ]
   }
 ]
