@@ -118,5 +118,13 @@
     "exibition": "Spiderland",
     "label": ["heide","spider"],
     "display": true
+  },
+  {
+    "titel": "Ein regnerischer Tag im Frühling",
+    "preview": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVe8WkSdqi2VzwuN1PrBHXKWtuUnD3NjyWmAlukqMXoTo1IX5dDUXSb3M-Oi0lFJUmOicW2xoHSvpIQLmFWzJ5Y2LdOgZqXk7e8no3kc0Ee5lxZwoL7MdpGjT9mTLgy6pdoTW4z-YrR5eyzzlJmaUzZ0uL89oKd3-ZBSfSxY4auih6brjgIo4qumiiIg/s3341/spiderland_03.jpg",
+    "content": ["Ein regnerischer Tag im Frühling"],
+    "exibition": "EinregnerischerTagimFrühling",
+    "label": ["wald","regen", "laub"],
+    "display": true
   }
 ]
