@@ -134,6 +134,14 @@
     "exibition": "endederlandebahn",
     "label": ["flugzeuge","lensbaby", "traurig"],
     "display": true
+  },
+  {
+    "titel": "Pfaff-Gelände",
+    "preview": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq76zxdUM183NBvjuPZIYjy10MbjtWVRV4WNPwCRuoUBt_vpmCMEhZ_gBVqJvMetNX8x82pXjnBDWS76YfCqLF7LDliV31MMq7J1972dUrTJXsDA0ZaYhRForKZTvXCvd8-89dSfWOFLWj_KKfx5LbmRcDeSFQeA4bSSdiIaoOLm4v-9OUHes69uAD3Rep/s3715/Pfaff_gelaende_2025_10.jpg",
+    "content": ["Letzte Tour durch die Reste des ehemaligen Pfaff-Geländes."],
+    "exibition": "pfaffgelaende",
+    "label": ["pfaff","lensbaby", "traurig"],
+    "display": true
   }
 
 ]
