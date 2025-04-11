@@ -1,147 +1,255 @@
 [
   {
     "titel": "Darkwood",
-    "content": ["Herbst im Wald"],
+    "content": [
+      "Herbst im Wald"
+    ],
     "preview": "https://2.bp.blogspot.com/-nSS5nTAOPhc/W5AAAv6lOEI/AAAAAAAAFGo/ddxA6EdZiJU4SxRXPZmYxw3lZmbsWTR2QCLcBGAs/s1600/Darkwoods%2B%25285%2529.jpg",
     "exibition": "darkwood",
-    "label": ["lensbaby", "natur"],
+    "label": [
+      "lensbaby",
+      "natur"
+    ],
     "display": true
   },
   {
     "titel": "K-Town",
-    "content": ["Kaiserslautern dekonstruiert"],
+    "content": [
+      "Kaiserslautern dekonstruiert"
+    ],
     "preview": "https://1.bp.blogspot.com/-B91pkKKWzqs/X0fQRK0eEVI/AAAAAAAAG24/4DO4MAJj5Cw3zxixuOb77Rr6iRZg2paIACLcBGAsYHQ/s1600/ktown%2B%252818%2529.jpg",
     "exibition": "ktown",
-    "label": ["lensbaby", "street"],
+    "label": [
+      "lensbaby",
+      "street"
+    ],
     "display": true
   },
   {
     "titel": "Venedig im Winter",
-    "content": ["Venedig monochrom"],
+    "content": [
+      "Venedig monochrom"
+    ],
     "preview": "https://2.bp.blogspot.com/-e678qJbh66s/VJU_wBsU_kI/AAAAAAAACd8/c-WtG1DmCFQ/s1600/BSC_5818.jpg",
     "exibition": "venedig",
-    "label": ["lensbaby", "street"],
+    "label": [
+      "lensbaby",
+      "street"
+    ],
     "display": true
   },
   {
     "titel": "Frühling am Donnersberg",
-    "content": ["Wald und Landschaft"],
+    "content": [
+      "Wald und Landschaft"
+    ],
     "preview": "https://1.bp.blogspot.com/-YziZTPdW8KI/XpWHvJ5nzHI/AAAAAAAAGhc/-ohvwFFckpAXyoBQCNB3wRHocKVrcGIHwCLcBGAsYHQ/s320/DSC_8774.jpg",
     "exibition": "donnersberg",
-    "label": ["natur", "coronajahr", "landschaft"],
+    "label": [
+      "natur",
+      "coronajahr",
+      "landschaft"
+    ],
     "display": true
   },
   {
     "titel": "Der Donnersberg im Winter",
-    "content": ["Nebel und Schnee"],
+    "content": [
+      "Nebel und Schnee"
+    ],
     "preview": "https://1.bp.blogspot.com/-2K_NMAeh4ls/YAXB8Q5EdoI/AAAAAAAAHk0/eeE5xfronlctFZ7kr35ToWITjZWKEwKLwCLcBGAsYHQ/s320/DSC_2232.jpg",
     "exibition": "donnersbergwinter",
-    "label": ["natur", "coronajahr", "landschaft"],
+    "label": [
+      "natur",
+      "coronajahr",
+      "landschaft"
+    ],
     "display": true
   },
   {
     "titel": "Las Vegas blvd",
-    "content": ["Subjektiv"],
+    "content": [
+      "Subjektiv"
+    ],
     "preview": "https://1.bp.blogspot.com/-qV5orqfFuAE/YEyt_1RowBI/AAAAAAAAHxM/vOsy3T_a9FIWFi9_WkRPYtgN32lNo4AUQCLcBGAsYHQ/s2048/vegasbaby%2B%25285%2529.jpg",
     "exibition": "lasvegasblv",
-    "label": ["usa", "las vegas", "street", "lensbaby"],
+    "label": [
+      "usa",
+      "las vegas",
+      "street",
+      "lensbaby"
+    ],
     "display": true
   },
   {
     "titel": "Zeeland",
-    "content": ["Schwarzweiß und Sturm"],
+    "content": [
+      "Schwarzweiß und Sturm"
+    ],
     "preview": "https://1.bp.blogspot.com/-G5w5pHVRc-k/YF-OGJmdogI/AAAAAAAAH2s/KWv00ENYZy8CugkibClgsDU0XuEfGQzHwCLcBGAsYHQ/s1702/DSC_1511.jpg",
     "exibition": "nordsee",
-    "label": ["meer", "holland", "strand", "lensbaby"],
+    "label": [
+      "meer",
+      "holland",
+      "strand",
+      "lensbaby"
+    ],
     "display": true
   },
   {
     "titel": "Nevada",
-    "content": ["Landscapes"],
+    "content": [
+      "Landscapes"
+    ],
     "preview": "https://1.bp.blogspot.com/-L2DmjKC9NPk/YGYtnoxxDyI/AAAAAAAAH4M/wo_1qhMsjKo5fNrc2oPV1xdo2BzLEPhSwCLcBGAsYHQ/s2000/nevada2012%2B%25287%2529.jpg",
     "exibition": "nevada",
-    "label": ["usa", "las vegas", "nevada", "landscape"],
+    "label": [
+      "usa",
+      "las vegas",
+      "nevada",
+      "landscape"
+    ],
     "display": true
   },
   {
     "titel": "Frankfurt",
     "preview": "https://1.bp.blogspot.com/-n6QcIFU67wA/UZpUyCO-SgI/AAAAAAAABQc/UGRRC5a3CU8/s1600/sw+(2).jpg",
-    "content": ["Touristiktrip durch Frankfurt."],
+    "content": [
+      "Touristiktrip durch Frankfurt."
+    ],
     "exibition": "frankfurt",
-    "label": ["frankfurt", "weitwinkel", "schwarzweis", "citycape"],
+    "label": [
+      "frankfurt",
+      "weitwinkel",
+      "schwarzweis",
+      "citycape"
+    ],
     "display": true
   },
   {
     "titel": "New York",
     "preview": "https://4.bp.blogspot.com/-gk1QHt3L7_0/T7NXvDFkYUI/AAAAAAAAAKM/zTnP-roRoqQ/s1600/DSC_9352.JPG",
-    "content": ["Kurztrip New York"],
+    "content": [
+      "Kurztrip New York"
+    ],
     "exibition": "NewYork",
-    "label": ["usa","new york", "lensbaby"],
+    "label": [
+      "usa",
+      "new york",
+      "lensbaby"
+    ],
     "display": true
   },
   {
     "titel": "Autumn in the Heather",
     "preview": "https://1.bp.blogspot.com/-Bea0aU-Uupg/YZJW3g93NfI/AAAAAAAAIbU/M0esVtJLUwwfyrBemexIDbz7FZhhs6eRgCLcBGAsYHQ/s2048/lensbaby_sweet_50_80%2B%25281%2529.jpg",
-    "content": ["Heidelandschaft im Herbst"],
+    "content": [
+      "Heidelandschaft im Herbst"
+    ],
     "exibition": "AutumnintheHeather",
-    "label": ["landschaft","heide", "lensbaby"],
+    "label": [
+      "landschaft",
+      "heide",
+      "lensbaby"
+    ],
     "display": true
   },
   {
     "titel": "Mainz walk",
     "preview": "https://1.bp.blogspot.com/-CoEtoYNsrD8/YaETy8cbJ3I/AAAAAAAAIqE/x_YjgX7QGxEmiyVirx151mw2cCL1k1i7ACLcBGAsYHQ/s2048/mainz_15.jpg",
-    "content": ["kleiner Rundgang durch Mainz"],
+    "content": [
+      "kleiner Rundgang durch Mainz"
+    ],
     "exibition": "Mainzwalk",
-    "label": ["landschaft","mainz","city", "lensbaby"],
+    "label": [
+      "landschaft",
+      "mainz",
+      "city",
+      "lensbaby"
+    ],
     "display": true
   },
   {
     "titel": "Kaiserlautern - Sundown",
     "preview": "https://blogger.googleusercontent.com/img/a/AVvXsEhRCP_mfY6upOMXNUyTH9uT8KdnQkMRqmWNEiEhxb-NFkMW8Jfn5ml0dBN2xTWN6ed4g-S-hB-ZarYoIxZ721-a5lii4G0G8QW6mJRUjBJYzQt5DCewAn93kMGv7eBXNts5xQaykfIVLjaZXt7dBQoJEPSNudI-Rl3Ps7QFpL53fxhL0fs5Plnanl3oYw=s3341",
-    "content": ["März 2022 mit dem Lensbaby"],
+    "content": [
+      "März 2022 mit dem Lensbaby"
+    ],
     "exibition": "Kaiserslauternsundown",
-    "label": ["landschaft","Kaiserlautern","city", "lensbaby"],
+    "label": [
+      "landschaft",
+      "Kaiserlautern",
+      "city",
+      "lensbaby"
+    ],
     "display": true
   },
   {
     "titel": "Seidr",
     "preview": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKam3eBeg4XnoLEUmCaZoIul0uCBI1OSAGGZwTztmBh2SPO_BdpMDu3c3BPoKw7gg0KZQsBnAethmqSdS-ac2c7x9HzsmSC-er39HpximF41rK3qZsHbgBf-pbYU-dl9h6O8Rf99SakUec3xfollAIOHxzKCiRvUz-8UhyU7Cx2NziUSSqVCPOfaMixA/s3302/voelva_05.jpg",
-    "content": ["Una und Jorun"],
+    "content": [
+      "Una und Jorun"
+    ],
     "exibition": "Seidr",
-    "label": ["viking","witch"],
+    "label": [
+      "viking",
+      "witch"
+    ],
     "display": true
   },
   {
     "titel": "Spiderland",
     "preview": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVe8WkSdqi2VzwuN1PrBHXKWtuUnD3NjyWmAlukqMXoTo1IX5dDUXSb3M-Oi0lFJUmOicW2xoHSvpIQLmFWzJ5Y2LdOgZqXk7e8no3kc0Ee5lxZwoL7MdpGjT9mTLgy6pdoTW4z-YrR5eyzzlJmaUzZ0uL89oKd3-ZBSfSxY4auih6brjgIo4qumiiIg/s3341/spiderland_03.jpg",
-    "content": ["Spiderland in der Heide"],
+    "content": [
+      "Spiderland in der Heide"
+    ],
     "exibition": "Spiderland",
-    "label": ["heide","spider"],
+    "label": [
+      "heide",
+      "spider"
+    ],
     "display": true
   },
   {
     "titel": "Ein regnerischer Tag im Frühling",
     "preview": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiyW-97KvNvQVGFQsrbJwp6mY6SE-oET4i3E4pRgez_H6PuBpodw3u7fB3oDEvhLwON3lFm-d2xyKSast5dNw2pGn8SagUgJvsO40Cczu5XbBAC-HCSRK1intGHJ5D-wG-JcLM3Bx3waa64M6CrWKe7gvIJU_PoiySRwdAaxz7NqU4vewIK77avM6gxx5X/s2784/DSC_0654_TIFF_20230510.jpg",
-    "content": ["Ein regnerischer Tag im Frühling"],
+    "content": [
+      "Ein regnerischer Tag im Frühling"
+    ],
     "exibition": "EinregnerischerTagimFrühling",
-    "label": ["wald","regen", "laub"],
+    "label": [
+      "wald",
+      "regen",
+      "laub"
+    ],
     "display": true
   },
   {
     "titel": "Verlorene Träume am Ende der Landebahn",
     "preview": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiILp-6Nwn9_c1sJijK8v47YhW-WeWvFXSGPgy_OZAxamYaZ9sKmnQ-2ifivwh12IKdg2ziBK_qDzOyk3HKrXls6kdWy_74_Cb56mqIrNVwBU9xVGfjK19569L_H5iCBfz7l4zYwIxRXHKr2w8_H8BQE1qe8Tdezwv-ztF96cKhqDHFD2rgDq794Ufhtozo/s1800/sadplanes_06.jpg",
-    "content": ["Jedes Flugzeug erzählt eine Geschichte – von Hoffnung und Aufbruch, von Mut, von Entdeckung aber auch von Zerstörung und Krieg."],
+    "content": [
+      "Jedes Flugzeug erzählt eine Geschichte – von Hoffnung und Aufbruch, von Mut, von Entdeckung aber auch von Zerstörung und Krieg."
+    ],
     "exibition": "endederlandebahn",
-    "label": ["flugzeuge","lensbaby", "traurig"],
+    "label": [
+      "flugzeuge",
+      "lensbaby",
+      "traurig"
+    ],
     "display": true
   },
   {
     "titel": "Pfaff-Gelände",
     "preview": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq76zxdUM183NBvjuPZIYjy10MbjtWVRV4WNPwCRuoUBt_vpmCMEhZ_gBVqJvMetNX8x82pXjnBDWS76YfCqLF7LDliV31MMq7J1972dUrTJXsDA0ZaYhRForKZTvXCvd8-89dSfWOFLWj_KKfx5LbmRcDeSFQeA4bSSdiIaoOLm4v-9OUHes69uAD3Rep/s3715/Pfaff_gelaende_2025_10.jpg",
-    "content": ["Das Pfaffgelände in Kaiserslautern, einst Symbol für industrielle Stärke, ist heute ein verfallenes Relikt aus rostigem Stahl und toxischen Rückständen. Vergessen und verfallen, liegt es da – ein Mahnmal für den Preis des Fortschritts und das Erbe der Umweltverschmutzung. Die Ruinen atmen Schwermetalle und Geschichten von Arbeit und Vernachlässigung. Hier stirbt nicht nur ein Gebäude, sondern ein Stück deutscher Geschichte."],
+    "content": [
+      "Das Pfaffgelände in Kaiserslautern, einst Symbol für industrielle Stärke, ist heute ein verfallenes Relikt aus rostigem Stahl und toxischen Rückständen. Vergessen und verfallen, liegt es da – ein Mahnmal für den Preis des Fortschritts und das Erbe der Umweltverschmutzung. Die Ruinen atmen Schwermetalle und Geschichten von Arbeit und Vernachlässigung. Hier stirbt nicht nur ein Gebäude, sondern ein Stück deutscher Geschichte."
+    ],
     "exibition": "pfaffgelaende",
-    "label": ["pfaff","lensbaby", "traurig"],
+    "label": [
+      "pfaff",
+      "lensbaby",
+      "traurig"
+    ],
     "display": true
   }
-
 ]
